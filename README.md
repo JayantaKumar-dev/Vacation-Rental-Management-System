@@ -82,7 +82,7 @@ After starting the backend, access Swagger at:
 - MySQL
 
 # Clone the repo
-git clone https://github.com/your-username/hmsapp-backend.git
+git clone https://github.com/JayantaKumar-dev/Vacation-Rental-Management-System.git
 cd hmsapp-backend
 
 # Update database credentials in application.properties
