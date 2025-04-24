@@ -2,14 +2,13 @@
 
 **HMSApp** is a full-stack Vacation Rental Management System inspired by Airbnb, built using **Spring Boot (Backend)** and **React + Tailwind CSS (Frontend)**. It enables property listing, booking, and user role-based access for hosts and guests.
 
-> 💡 Built as a capstone project at **Pankaj Sir’s Full-Stack Java Academy**
+> 💡 Built as a capstone project at **FuzedMinds Technologies Pvt. Ltd.**
 
 ![Java](https://img.shields.io/badge/Java-17+-red.svg)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-3.x-green.svg)
-![React](https://img.shields.io/badge/Frontend-React-blue)
-![Tailwind CSS](https://img.shields.io/badge/Styling-TailwindCSS-teal)
 ![JWT](https://img.shields.io/badge/Security-JWT-orange)
 ![Swagger](https://img.shields.io/badge/API-Swagger-brightgreen)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
 
 ---
 
@@ -29,11 +28,10 @@
 
 | Layer       | Technology                          |
 |------------|--------------------------------------|
-| Backend     | Java 17, Spring Boot 3.x, Spring Security |
-| Frontend    | React.js, Tailwind CSS              |
+| Backend     | Java 17, Spring Boot 3.x, Spring Security|
 | Auth        | JWT (JSON Web Tokens)               |
 | Database    | MySQL                               |
-| API Docs    | Swagger (Springdoc OpenAPI)         |
+| API Docs    | Swagger (Springdoc OpenAPI) and PostMan|
 
 ---
 
