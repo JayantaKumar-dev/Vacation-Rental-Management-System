@@ -1,6 +1,6 @@
 # 🏡 HMSApp – Vacation Rental Management System
 
-**HMSApp** is a full-stack Vacation Rental Management System inspired by Airbnb, built using **Spring Boot (Backend)** and **React + Tailwind CSS (Frontend)**. It enables property listing, booking, and user role-based access for hosts and guests.
+**HMSApp** is the backend for a full-featured Vacation Rental Management System inspired by platforms like Airbnb. Built with **Spring Boot**, it provides robust REST APIs for user management, property listings, and secure role-based access for hosts and guests.
 
 > 💡 Built as a capstone project at **FuzedMinds Technologies Pvt. Ltd.**
 
